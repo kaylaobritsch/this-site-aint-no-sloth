@@ -1,0 +1,14 @@
+html {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  background: linear-gradient(to top, rgba(28, 14, 0, 0), rgba(28, 14, 0, 1));
+  color: #fff;
+  font-family: Georgia, serif;
+  font-weight: bold;
+}
+
+figcaption {
+  font-family: Georgia, serif;
+}
