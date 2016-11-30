@@ -10,6 +10,7 @@ h1 {
   color: #fff;
   font-family: Georgia, serif;
   font-weight: bold;
+  text-shadow: 3px 3px #000;
 }
 
 figcaption {
