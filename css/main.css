@@ -1,5 +1,8 @@
 html {
   font-family: Verdana, sans-serif;
+  background-image: url("../images/sloth-bg.svg");
+  background-color: #bea586;
+  background-size: 48px;
 }
 
 h1 {
@@ -11,4 +14,13 @@ h1 {
 
 figcaption {
   font-family: Georgia, serif;
+}
+
+a {
+  color: #000;
+}
+
+section,
+footer {
+  background-color: #fff;
 }
