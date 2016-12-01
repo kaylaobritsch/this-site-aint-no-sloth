@@ -6,14 +6,18 @@ html {
 }
 
 h1 {
-  background: linear-gradient(to top, rgba(28, 14, 0, 0), rgba(28, 14, 0, 1));
+  background: linear-gradient(to top, rgba(28, 14, 0, 0), rgba(28, 14, 0, .9));
   color: #fff;
   font-family: Georgia, serif;
-  text-shadow: 3px 3px #000;
+  text-shadow: 2px 2px #000;
+  padding-top: .8rem;
+  padding-bottom: .8rem;
 }
 
 figcaption {
   font-family: Georgia, serif;
+  padding-top: .3rem;
+  padding-bottom: .6rem;
 }
 
 a {
@@ -26,7 +30,12 @@ footer {
   background-color: #fff;
 }
 
+footer {
+  padding-top: .7rem;
+  padding-bottom: .7rem;
+}
+
 .border {
-  border-bottom: solid 2px #bea586;
-  border-top: solid 2px #bea586;
+  border-bottom: solid 2px #766e66;
+  border-top: solid 2px #766e66;
 }
